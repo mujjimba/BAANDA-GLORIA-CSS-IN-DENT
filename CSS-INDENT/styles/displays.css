@@ -1,0 +1,19 @@
+h1{
+    text-align: center;font-size: large;
+}
+.container{
+    width: 60%;
+    margin: 20px auto;
+    border: 2px solid #e96060;
+    padding: 12px;
+}
+.block{
+    display: block;
+    position: static;
+    background-color: aqua;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+    
+
+

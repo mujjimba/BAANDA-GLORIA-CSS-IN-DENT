@@ -1,0 +1,17 @@
+ul.a{
+    list-style-type: circle; color: blueviolet;
+}
+ul.b{
+    list-style-type: square; color: chartreuse;
+}
+ol.c{
+    list-style-type: upper-alpha; color: chocolate;
+}
+ol.d{
+    list-style-type: upper-roman; color: crimson;
+}
+h1{
+    text-align: center;
+    font-weight: 400px;
+    color: darkseagreen;
+}

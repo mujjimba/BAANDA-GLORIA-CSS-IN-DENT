@@ -1,0 +1,26 @@
+.visited a:visited{
+    color: rgb(235, 80, 255);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.visited{
+    display: flex;
+    gap:2rem
+}
+.hover a:hover{
+    color: rgb(0, 213, 255);
+}
+.hover{
+    display: flex;
+    gap:2rem
+    }
+.active a:active{
+    color: rgb(174, 73, 11);
+}
+.active{
+    display: flex;
+    gap:2rem
+}

@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem; 
+}
+.row-container{
+    display: flex;
+    gap: 2rem;font: 200px;
+    font-size: 25px;
+    text-align: left;
+    position: relative;left: 20%; right:20%;
+    color: blueviolet;
+}
